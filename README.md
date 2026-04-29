@@ -136,5 +136,6 @@ Tailscale provides:
 - **Home Assistant** integration
 - **PiKVM** for *remote hardware management*
 
+---
 
 Thanks for reading this project's documentation. I intend to make everything as secure as possible whether it is through coding or the implementation of already created applications. Any feedback on the project is welcome!
